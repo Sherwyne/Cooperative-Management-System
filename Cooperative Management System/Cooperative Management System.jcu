@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>Cooperative Management System</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>Cooperative Management System</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+			<fileitem>
+				<path>src\Cooperative_Management_System.java</path>
+				<collapsedfolds>97;0</collapsedfolds>
+			</fileitem>
+			<fileitem>
+				<path>src\Database.java</path>
+				<collapsedfolds>185;177;120;46;38;29;0</collapsedfolds>
+			</fileitem>
+			<fileitem>
+				<path>src\Item.java</path>
+				<collapsedfolds>42;31;27;23;19;10;0</collapsedfolds>
+			</fileitem>
+			<fileitem>
+				<path>src\User.java</path>
+				<collapsedfolds>148;138;134;78;46;38;32;0</collapsedfolds>
+			</fileitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>src\User.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>src\Cooperative_Management_System.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>src\Item.java</path>
+			<source>true</source>
+			<index>2</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>src\Database.java</path>
+			<source>true</source>
+			<index>3</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+</workspace_user>

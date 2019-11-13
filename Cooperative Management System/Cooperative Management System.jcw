@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Cooperative Management System</label>
+	</settings>
+	<users>
+		<user>
+			<path>Cooperative Management System.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Cooperative Management System.jcp</path>
+		</project>
+	</projects>
+</workspace>
